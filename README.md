@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD KOFIL UDDIN</h1>
-<h3 align="center">A passionate lead mobile application developer from Bangladesh</h3>
+<h3 align="center">A passionate mobile application developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kofilezzetech&label=Profile%20views&color=0e75b6&style=flat" alt="kofilezzetech" /> </p>
 
