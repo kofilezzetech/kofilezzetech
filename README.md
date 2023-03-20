@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kofil_rahin" target="blank"><img src="https://img.shields.io/twitter/follow/kofil_rahin?logo=twitter&style=for-the-badge" alt="kofil_rahin" /></a> </p>
 
-- 💬 Ask me about **SWIFT, SWIFTUI, KOTLIN, JETPACK COMPOSE, MVVM**
+- 💬 Ask me about **SWIFT, SWIFTUI, JAVA, KOTLIN, JETPACK COMPOSE, MVVM**
 
 - 📫 How to reach me **kofil@ezzetech.com**
 
