@@ -7,7 +7,6 @@ Lead Mobile Application Developer (Android | IOS)
 As a mobile application developer with expertise in both iOS and Android platforms, I have a track record of delivering high-quality, user-friendly apps that meet the needs of a diverse range of clients. With a strong background in programming languages such as Swift, Java and Kotlin, I am able to create engaging and responsive apps that are tailored to the specific needs of my clients. I am also well-versed in the latest development tools and best practices, and am able to stay up-to-date with the latest trends in mobile app development. Whether you need a simple app for your small business or a complex app for a major corporation, I have the skills and experience to help you achieve your goals.
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* 🖥️  See my portfolio at [My Portfolio](http://etl.com.bd/portfolio)
 * ✉️  You can contact me at [kofil@vioresume.com](mailto:kofil@vioresume.com)
 * 🧠  I'm learning SWIFTUI, Jetpack Compose, Flutter
 
