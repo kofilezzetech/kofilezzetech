@@ -8,7 +8,7 @@ As a mobile application developer with expertise in both iOS and Android platfor
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My Portfolio](http://etl.com.bd/portfolio)
-* ✉️  You can contact me at [kofil@ezzetech.com](mailto:kofil@vio-resume.com)
+* ✉️  You can contact me at [kofil@vioresume.com](mailto:kofil@vioresume.com)
 * 🚀  I'm currently working on [Live Blood Bank - Find Nearby](http://play.google.com/store/apps/details?id=bd.etl.livebloodbank)
 * 🧠  I'm learning SWIFTUI, Jetpack Compose, Flutter
 
